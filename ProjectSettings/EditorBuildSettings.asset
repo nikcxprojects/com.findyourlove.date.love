@@ -5,13 +5,31 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Third/Scenes/demo.unity
+    guid: 4e1cfeaa3a2699e47a0b14583428ca1a
+  - enabled: 1
+    path: Assets/SwipeableView/Demo/01_Basic/BasicScene.unity
+    guid: e5ca50c5d3de14501b2d91e233fab821
+  - enabled: 1
+    path: Assets/Le Tai's Asset/TrueShadow/Demo/Full Colors/Full Colors.unity
+    guid: 6affff0ac2b606d409efc66601f46e35
+  - enabled: 1
+    path: Assets/Le Tai's Asset/TrueShadow/Demo/Inspiration/Inspirations.unity
+    guid: 0c93658a63627f0428fcd59af19ce570
+  - enabled: 1
+    path: Assets/SwipeableView/Demo/02_LoadTexture/LoadTextureScene.unity
+    guid: 3486d413cb6094854b49c860c154be01
   - enabled: 1
     path: Assets/0_Scenes/MainMenu.unity
     guid: 6bddbbdf34dcee5418a4f337bbd4e9c8
-  - enabled: 0
-    path: Assets/0_Scenes/Game.unity
-    guid: cb91d4d03f6dc744fa1e80a0a1523096
+  - enabled: 1
+    path: Assets/Le Tai's Asset/TrueShadow/Demo/Neumorphism/Neumorphism.unity
+    guid: f75618b375132eb4bb06c2cc39f2114d
+  - enabled: 1
+    path: Assets/Le Tai's Asset/TrueShadow/Demo/Swipe/Swipe.unity
+    guid: 7990b6357de2c8641b621bab4481cfe6
+  - enabled: 1
+    path: Assets/Le Tai's Asset/TrueShadow/Demo/Symbols/Symbols.unity
+    guid: a3515399116b2064782c6fe105a7c727
   m_configObjects: {}

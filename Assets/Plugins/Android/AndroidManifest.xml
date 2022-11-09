@@ -16,9 +16,9 @@
 		  </intent-filter>
 		  <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
 	  </activity>
-	  <meta-data android:name="ymp_firebase_default_app_id" android:value="1:742233846563:android:c0ae78ac2a24fc055d1296" />
-	  <meta-data android:name="ymp_gcm_default_sender_id" android:value="number:742233846563" />
-	  <meta-data android:name="ymp_firebase_default_api_key" android:value="AIzaSyBgZVwujrzgx6v2kPdu6EQSTejMuA3DHqM" />
-	  <meta-data android:name="ymp_firebase_default_project_id" android:value="comonexballxxgame" />
+	  <meta-data android:name="ymp_firebase_default_app_id" android:value="1:827346451955:android:44fc5307c238c7f6cba686" />
+	  <meta-data android:name="ymp_gcm_default_sender_id" android:value="number:827346451955" />
+	  <meta-data android:name="ymp_firebase_default_api_key" android:value="AIzaSyDfc76bCdig-cufAgJD4f39b87mXgLqSjQ" />
+	  <meta-data android:name="ymp_firebase_default_project_id" android:value="comfindyourlovedatelove" />
   </application>
 </manifest>

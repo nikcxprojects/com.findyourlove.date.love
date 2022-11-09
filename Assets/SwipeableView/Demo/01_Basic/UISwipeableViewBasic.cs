@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using Unity.Burst.Intrinsics;
 
 namespace SwipeableView
 {
