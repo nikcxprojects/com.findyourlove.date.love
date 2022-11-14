@@ -9,20 +9,20 @@ EditorBuildSettings:
     path: Assets/Third/Scenes/demo.unity
     guid: 4e1cfeaa3a2699e47a0b14583428ca1a
   - enabled: 1
-    path: Assets/SwipeableView/Demo/01_Basic/BasicScene.unity
-    guid: e5ca50c5d3de14501b2d91e233fab821
+    path: Assets/0_Scenes/MainMenu.unity
+    guid: 6bddbbdf34dcee5418a4f337bbd4e9c8
   - enabled: 1
     path: Assets/Le Tai's Asset/TrueShadow/Demo/Full Colors/Full Colors.unity
     guid: 6affff0ac2b606d409efc66601f46e35
+  - enabled: 1
+    path: Assets/SwipeableView/Demo/01_Basic/BasicScene.unity
+    guid: e5ca50c5d3de14501b2d91e233fab821
   - enabled: 1
     path: Assets/Le Tai's Asset/TrueShadow/Demo/Inspiration/Inspirations.unity
     guid: 0c93658a63627f0428fcd59af19ce570
   - enabled: 1
     path: Assets/SwipeableView/Demo/02_LoadTexture/LoadTextureScene.unity
     guid: 3486d413cb6094854b49c860c154be01
-  - enabled: 1
-    path: Assets/0_Scenes/MainMenu.unity
-    guid: 6bddbbdf34dcee5418a4f337bbd4e9c8
   - enabled: 1
     path: Assets/Le Tai's Asset/TrueShadow/Demo/Neumorphism/Neumorphism.unity
     guid: f75618b375132eb4bb06c2cc39f2114d
